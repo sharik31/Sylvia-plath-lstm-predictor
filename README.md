@@ -22,18 +22,6 @@ This fusion of poetic language enriches the vocabulary and rhythm of the predict
 ---
 
 
----
-
-## 📝 Dataset
-
-The model was trained on a hand-curated corpus that includes:
-- Sylvia Plath's poem *Mirror* and other poetic fragments
-- Shakespearean monologues from *As You Like It*
-
-This fusion of poetic language enriches the vocabulary and rhythm of the predicted output.
-
----
-
 ## 🧠 Model Architecture
 
 ```python
@@ -71,7 +59,7 @@ for i in range(10):
             text += ' ' + word
             print(text)
 ```
-##📦 Installation
+## 📦 Installation
 
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
