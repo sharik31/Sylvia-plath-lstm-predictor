@@ -71,5 +71,10 @@ for i in range(10):
             text += ' ' + word
             print(text)
 ```
+##📦 Installation
+
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+pip install -r requirements.txt
 
 
