@@ -7,7 +7,7 @@ This project is a deep learning-based next-word prediction model trained on the 
 ## ✨ Demo
 
 **Input**: `"The world"`  
-**Generated Output**:
+**Generated Output**: `"The world will go up in a shriek and your head with"`
 
 ---
 
