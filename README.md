@@ -1,10 +1,10 @@
-# 🧠 Sylvia Plath Poetry – Next Word Predictor using LSTM
+# Sylvia Plath Poetry – Next Word Predictor using LSTM
 
 This project is a deep learning-based next-word prediction model trained on the poetic and emotionally rich text of **Sylvia Plath**, along with select lines from Shakespeare. Using an LSTM (Long Short-Term Memory) network, the model attempts to complete poetic lines, preserving the unique style and vocabulary of the author.
 
 ---
 
-## ✨ Demo
+##  Demo
 
 **Input**: `"The world"`  
 **Generated Output**: `"The world will go up in a shriek and your head with"`
@@ -22,7 +22,7 @@ This fusion of poetic language enriches the vocabulary and rhythm of the predict
 ---
 
 
-## 🧠 Model Architecture
+## Model Architecture
 
 ```python
 model = Sequential()
@@ -44,7 +44,7 @@ model.fit(X, Y, epochs=100)
 - Epochs: 100
 ```
 
-## 🔮 Prediction Logic
+##  Prediction Logic
 
 Here's how next-word prediction is performed:
 
