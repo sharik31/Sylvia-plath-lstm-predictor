@@ -31,7 +31,7 @@ model.add(LSTM(150))
 model.add(Dense(434, activation='softmax'))
 ```
 
-## 📊 Training
+##  Training
 
 The model is trained using the following command:
 
