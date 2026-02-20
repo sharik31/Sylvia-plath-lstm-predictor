@@ -11,7 +11,7 @@ This project is a deep learning-based next-word prediction model trained on the 
 
 ---
 
-## 📝 Dataset
+##  Dataset
 
 The model was trained on a hand-curated corpus that includes:
 - Sylvia Plath's poem *Mirror* and other poetic fragments
@@ -59,10 +59,10 @@ for i in range(10):
             text += ' ' + word
             print(text)
 ```
-## 📦 Installation
+##  Installation
 
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/shark31.git
+cd your shark31
 pip install -r requirements.txt
 
 
